@@ -63,6 +63,9 @@ b) Hoisting
 c) Imutabilidade
 ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
     - linguagens funcionais: dados unca são alterados
-    -
+    
+d) Tipos e Variáveis
+¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
+    - var, let e const
 
 
