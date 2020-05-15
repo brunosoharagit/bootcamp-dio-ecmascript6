@@ -8,7 +8,7 @@ function getUserWithFullName(user)
 {
     return
     {
-        ...user,
+        user
         fullName: `${user.name} ${user.lastName}`
     }
 }
