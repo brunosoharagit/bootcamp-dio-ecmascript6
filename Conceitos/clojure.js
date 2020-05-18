@@ -4,15 +4,15 @@ function init()
 
     return function()
     {
-        console.log(`1 - O valor da variável exemplo é: ${exemplo}`)
+        console.log(`1 - O valor da variável exemplo é: ${example}`)
 
         return function()
         {
-            console.log(`2 - O valor da variável exemplo é: ${exemplo}`)
+            console.log(`2 - O valor da variável exemplo é: ${example}`)
 
             return function()
             {
-                console.log(`3 - O valor da variável exemplo é: ${exemplo}`)
+                console.log(`3 - O valor da variável exemplo é: ${example}`)
             }
         }
     }

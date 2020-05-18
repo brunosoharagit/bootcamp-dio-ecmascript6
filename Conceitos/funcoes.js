@@ -5,7 +5,7 @@ function getName()
 
 function logFn(fn)
 {
-    console.log(fn())
+    console.log(fn)
 }
 
 const logFnResult = logFn;
@@ -15,6 +15,6 @@ const obj =
     logFn: logFn
 }
 
-const arr = [logfn]
+const arr = [logFn()]
 
-logFnResult(getName)
+logFnResult(getName())
