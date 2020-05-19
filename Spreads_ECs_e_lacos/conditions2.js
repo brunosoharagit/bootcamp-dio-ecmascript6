@@ -24,11 +24,13 @@ array.forEach(item => {
 
 
 //Switch...case
-const fruit = 'Maçã'
+const fruit = 'Abacaxi'
 
 switch(fruit)
 {
     case 'Banana':
+    case 'Manga':
+    case 'Abacaxi':
         console.log(`Preço de ${fruit}: R$ 1,40/kg`)
         break;
 

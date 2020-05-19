@@ -27,3 +27,23 @@ while (a < b)
 console.log(a)
 
 //Do...while
+var c = 0
+do
+{
+    c += 1
+    console.log(c)
+} while(c < 10)
+
+//for...in e for...of
+let vetores = [1, 3, 5, 7, 9]
+vetores.foo - "hello"
+
+for (let j in vetores)
+{
+    console.log(j)
+}
+
+for (let k of vetores)
+{
+    console.log(k)
+}
