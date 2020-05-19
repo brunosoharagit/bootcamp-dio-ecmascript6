@@ -22,6 +22,8 @@ array.forEach(item => {
     }
 })
 
+
+//Switch...case
 const fruit = 'Maçã'
 
 switch(fruit)
