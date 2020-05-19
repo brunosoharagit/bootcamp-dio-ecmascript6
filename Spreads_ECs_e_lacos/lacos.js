@@ -1,5 +1,6 @@
 var i = 0
 
+//For
 for (i = 0; i <= 9; i++)
 {
     console.log(i)
@@ -16,6 +17,7 @@ for (let index = 0; index < numbers.length; index++)
 var a = 0
 var b = 9
 
+//While
 while (a < b)
 {
     b++
@@ -23,3 +25,5 @@ while (a < b)
 }
 
 console.log(a)
+
+//Do...while
