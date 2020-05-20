@@ -166,4 +166,18 @@ Design Patterns
 
     o.unsubscribe(logData1)
 
-    - Module >> 
+    - Module >> possibilita organizarmos melhor o nosso codigo, sem a necessidade de expor variaveis globais
+    EX:
+        class Person
+        {
+            constructor(name)
+            {
+                this.name = name
+            }
+        }
+
+        export default Person
+
+        //Utilizando Person em outro arquivo .js
+        import Person from './models/person'
+
