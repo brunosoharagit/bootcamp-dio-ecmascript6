@@ -13,8 +13,8 @@ Criação e manipulação de arrays
     >>Array.pop:
     Remove o último elemento de um array e retorna o elemento removido
 
-    >>Array.push:
-    Adiciona um ou mais elementos no início do array e retorna o tamanho do novo array
+    >>Array.shift:
+    Remove o primeiro item da lista de um array e retorna a lista com o item removido
 
     >>Array.concat:
     Concatena um ou mais arrays retornando um novo array
