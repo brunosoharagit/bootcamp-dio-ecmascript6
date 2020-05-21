@@ -28,24 +28,24 @@ Iterar elementos de Array
 >> findIndex()
     - retorna o indice do primeiro item de um array que satisfaz a condição
 
->> filter
+>> filter()
     - retorna um novo array com todos os elementos que satisfazem a condição
 
->> indexOf
+>> indexOf()
     - retorna o primeiro índice
 
->> lastIndexOf
+>> lastIndexOf()
     - retorna o ultimo índice em que um elemento pode ser encontrado no array
 
->> includes
+>> includes()
     - retorna um tipo booleano se um determinado estiver presente no array
 
->> some
+>> some()
     - retorna um booleano verificando se pelo menos um item de um array satisfaz a condição
 
->> every
+>> every()
     - retorna um booleano verificando se todos os itens de um array satisfazem a condição
 
->> sort
+>> sort()
     - ordena itens do array de acordo com a condição
 >>>>>>> f6fd38cc744555d0a0960589f121eb2951dab715
