@@ -28,4 +28,19 @@ Iterar elementos de Array
     - retorna um novo array com todos os elementos que satisfazem a condição
 
 >> indexOf
-    - retorna o primeiro indice
+    - retorna o primeiro índice
+
+>> lastIndexOf
+    - retorna o ultimo índice em que um elemento pode ser encontrado no array
+
+>> includes
+    - retorna um tipo booleano se um determinado estiver presente no array
+
+>> some
+    - retorna um booleano verificando se pelo menos um item de um array satisfaz a condição
+
+>> every
+    - retorna um booleano verificando se todos os itens de um array satisfazem a condição
+
+>> sort
+    - ordena itens do array de acordo com a condição
