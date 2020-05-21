@@ -9,4 +9,5 @@ Iterar elementos de Array
 >> flat()
     - Retorna um novo array com todos os elementos de um subarray concatenando de forma recursiva de acordo com a profundidade especificada(depth)
 
->> 
+>> flatMap
+    - 
