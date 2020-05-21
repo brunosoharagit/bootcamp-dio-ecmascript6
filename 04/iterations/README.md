@@ -9,10 +9,6 @@ Iterar elementos de Array
 >> flat()
     - retorna um novo array com todos os elementos de um subarray concatenando de forma recursiva de acordo com a profundidade especificada(depth)
 
-<<<<<<< HEAD
->> flatMap
-    - 
-=======
 >> flatMap()
     - retorna um novo array assim como a função map e executa um flat de profundidade 1
 
@@ -48,4 +44,3 @@ Iterar elementos de Array
 
 >> sort()
     - ordena itens do array de acordo com a condição
->>>>>>> f6fd38cc744555d0a0960589f121eb2951dab715
